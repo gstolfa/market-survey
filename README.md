@@ -2,7 +2,7 @@
 Spring boot<br>
 Jersey 2<br>
 h2database<br>
-main class to run: MarketsurveysApplication 
+main class to run: MarketsurveysApplication.java 
 
 # API Endpoint
 http://localhost:8080/surveys/{id}<br>
