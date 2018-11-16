@@ -4,6 +4,8 @@ RESTful Services: Jersey 2<br>
 in-memory databases: h2database<br>
 main class to run: MarketsurveysApplication.java 
 
+| idRequester | 1001 |
+
 # API Endpoint - the app is deployed on Heroku
 http://localhost:8080/surveys/{id}<br>
 data available with:<br>
