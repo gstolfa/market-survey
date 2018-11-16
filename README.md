@@ -10,7 +10,7 @@ data available with:<br>
 https://market-survey.herokuapp.com/surveys/81111600<br>
  Header parameter <br>
  
-|---|
+
 | Name | Value |
 | --- | --- |
 | idRequester | 1001 |
