@@ -20,6 +20,21 @@ ageFrom => integer<br>
 ageTo => integer<br>
 incomeFrom => integer<br>
 incomeTo => integer<br><br>
+
+| Request parameter Name | Request parameter type |
+| --- | --- |
+| gender | 'M'/'F' |
+| --- | --- |
+| ageFrom | integer |
+| --- | --- |
+| ageTo | integer |
+| --- | --- |
+| incomeFrom | integer |
+| --- | --- |
+| incomeTo | integer |
+
+
+
 data available with:<br>
 https://market-survey.herokuapp.com/surveys/category/Travel<br>
 request parameters:<br>
