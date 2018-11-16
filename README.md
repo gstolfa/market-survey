@@ -17,4 +17,9 @@ incomeFrom => integer<br>
 incomeTo => integer<br><br>
 data available with:<br>
 http://localhost:8080/surveys/category/Travel
+gender=M<br>
+ageFrom=17<br>
+ageTo=40<br>
+incomeFrom=1000<br>
+incomeT0=2000<br>
 
