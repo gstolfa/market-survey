@@ -60,10 +60,12 @@ public class ScheduledTasks {
         		switch (r.getChannel()) {
 				case "EMAIL":
 					logger.info("send email to " + r.getEmail());
-					surveys.forEach(s -> logger.info("Survey: " + s.getTitle()));					
+					surveys.forEach(s -> logger.info("Survey: " + s.getTitle()));
+					// TODO
 					break;
 				case "TELEPHONE_NUMBER":
 					logger.info("send sms to " + r.getTelephoneNumber());
+					// TODO
 					break;
 				}
 			} catch (NotFoundException | BadRequestException | InterruptedException | ExecutionException e) {
