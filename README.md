@@ -28,7 +28,7 @@ http://localhost:8080/surveys/category/{category}<br>
 | incomeFrom | integer |
 | incomeTo | integer |
 
-.small[data available with:] <br>
+data available with:<br>
 https://market-survey.herokuapp.com/surveys/category/Travel<br>
 
 | Request parameter Name | Request parameter type |
