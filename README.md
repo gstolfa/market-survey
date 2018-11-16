@@ -1,10 +1,12 @@
 # Market Survey
 
-| Stand-alone Spring based Applications | Spring boot |
+| Technology | Framework |
 | --- | --- |
+| Stand-alone Spring based Applications | Spring boot |
 | RESTful Web Services | Jersey 2 |
 | In-memory databases | h2database |
-| Main class to run | MarketsurveysApplication.java |
+
+Main class to run: MarketsurveysApplication.java
 
 # API Endpoint - the app is deployed on Heroku
 http://localhost:8080/surveys/{id}<br>
