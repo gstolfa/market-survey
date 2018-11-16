@@ -31,7 +31,7 @@ http://localhost:8080/surveys/category/{category}<br>
 data available with:<br>
 https://market-survey.herokuapp.com/surveys/category/Travel<br>
 
-| Request parameter Name | Request parameter type |
+| Request parameter Name | Request parameter value |
 | --- | --- |
 | gender | 'M' |
 | ageFrom | 17 |
