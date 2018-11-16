@@ -8,17 +8,12 @@ main class to run: MarketsurveysApplication.java
 http://localhost:8080/surveys/{id}<br>
 data available with:<br>
 https://market-survey.herokuapp.com/surveys/81111600<br>
- Header parameter <br>
+ Header parameter
  
-
 | Name | Value |
 | --- | --- |
 | idRequester | 1001 |
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 http://localhost:8080/surveys/category/{category}<br>
 queryParam => gender [M, F]<br>
