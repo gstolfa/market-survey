@@ -1,7 +1,7 @@
 # Market Survey
-Spring boot<br>
-Jersey 2<br>
-h2database<br>
+stand-alone Spring based Applications: Spring boot<br>
+RESTful Services: Jersey 2<br>
+in-memory databases: h2database<br>
 main class to run: MarketsurveysApplication.java 
 
 # API Endpoint
