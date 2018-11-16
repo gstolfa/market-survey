@@ -1,10 +1,10 @@
 # Market Survey
-stand-alone Spring based Applications: Spring boot<br>
-RESTful Services: Jersey 2<br>
-in-memory databases: h2database<br>
-main class to run: MarketsurveysApplication.java 
 
-| idRequester | 1001 |
+| Stand-alone Spring based Applications | Spring boot |
+| --- | --- |
+| RESTful Web Services | Jersey 2 |
+| In-memory databases | h2database |
+| Main class to run | MarketsurveysApplication.java |
 
 # API Endpoint - the app is deployed on Heroku
 http://localhost:8080/surveys/{id}<br>
