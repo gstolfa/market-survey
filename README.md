@@ -5,6 +5,7 @@ h2database<br>
 
 # API Endpoint
 http://localhost:8080/surveys/{id}<br>
+data available with: http://localhost:8080/surveys/81111600 <br>
 
 http://localhost:8080/surveys/category/{category}<br>
 queryParam => gender [M, F]<br>
