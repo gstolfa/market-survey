@@ -28,5 +28,5 @@ incomeT0=2000<br>
 header parameter: <br>
 idRequester = 1001<br><br>
 
-# Postman colelction link
+# Postman collection link
 https://www.getpostman.com/collections/d1940e43a0ec56f19d43
