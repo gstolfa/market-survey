@@ -24,13 +24,9 @@ incomeTo => integer<br><br>
 | Request parameter Name | Request parameter type |
 | --- | --- |
 | gender | 'M'/'F' |
-| --- | --- |
 | ageFrom | integer |
-| --- | --- |
 | ageTo | integer |
-| --- | --- |
 | incomeFrom | integer |
-| --- | --- |
 | incomeTo | integer |
 
 
